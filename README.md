@@ -8,7 +8,7 @@ I’m currently learning **Nginx** and **Docker** to run my website, and playing
 I love the **console environment** and created a *beautiful app* with [**collections of games**](https://github.com/zluuba/games-of-terminal) for this space.  
 Now, I'm working on a **real-time chat app for the console**.  
 
-**⚡ Fun fact**: I really need a job, so it would be really nice to get an offer from you. Thank you in advance!
+**⚡ Fun fact**: I'm currently seeking job opportunities, so if you have an offer, let's chat!
 
 
 <!--
