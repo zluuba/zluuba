@@ -1,7 +1,7 @@
 ### Hi there ;)
 
 Here's my stack: **Python**, **SQL**, **Django**, **Flask**, **Asyncio**, **PostgreSQL** and so on.  
-I also have experience with **JavaScript**, **HTML**, **CSS**, and have gently touched **C** and **Racket** with dreams about **Rust**.  
+I also have experience with **JavaScript**, **HTML**, **CSS**, and have gently touched **C** and **Racket**. 
 
 I’m currently learning **Nginx** and **Docker** to run my website, and playing with **Alembic**, **Fast API** and **Postman**.  
 
