@@ -5,6 +5,6 @@ Currently playing with **Fast API**, **Alembic** and **Pydantic**.
 
 I love the **console environment** and created a _beautiful app_ with [**collections of games**](https://github.com/zluuba/games-of-terminal) for this space.  
 Now, I'm working on [**my website**](https://zluuba.art) and a **real-time chat app for the console**.  
--->
 
 Everything is the software, and the software is everything 🖖🏻
+-->
